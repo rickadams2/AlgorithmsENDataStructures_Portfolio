@@ -9,7 +9,7 @@ Legenda
 
 ```
 
-| techstack  | repo  | status | 
+| techstack (see subrepo) | repo  | status | 
 |--|--|--|
 |  algorithmsm, data structures| [PS_BG_AlgorithmsENDataStructures](https://github.com/rickadams2/PS_BG_AlgorithmsENDataStructures)
 | " "| [PS_INT_AlgorithmsENDataStructures](https://github.com/rickadams2/PS_INT_AlgorithmsENDataStructures)
